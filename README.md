@@ -1,4 +1,9 @@
-# co54d4e19a2a9b96c2f8206cb
+# Demo
+[Demo Site](https://nuutri-digital-business-card.netlify.app/)
+
+## Screenshot
+
+![Preview Image](https://github.com/emmanesgana/scrimba-digital-business-card/blob/main/preview/preview.png)
 
 Quick start:
 
